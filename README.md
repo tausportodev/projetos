@@ -2,4 +2,4 @@
 
 #
 
-Projetos realizados ao longo do curso de Programação da Trybe.
+⚙️ Projetos realizados ao longo do curso de Programação da Trybe.
