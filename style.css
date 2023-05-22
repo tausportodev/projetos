@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(253, 251, 251);
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    #cabecalho {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(49, 0, 128);
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    #minha_foto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    padding: 3px;
+    background-color: rgb(49, 0, 128);
+    border-radius: 50%;
+    }
+    
+    h1 {
+    font-size: 36px;
+    line-height: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    } 
+    
+    .lado-esquerdo {
+    display: inline-block;
+    width: 500px;
+    text-align: justify;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .lado-direito {
+    float: right;
+    width: 300px;
+    text-align: justify;
+    margin-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    h2 {
+    color: rgb(49, 0, 128);
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    #ondeviver {
+    width: 50%;
+    border: 1px solid rgb(49, 0, 128);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+    }
+    
+    #onde-quero-viver {
+    bottom: auto;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .container {
+    width: 50%;
+    display: flex;
+    }
+    
+    #licoes_aprendidas {
+    margin-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
