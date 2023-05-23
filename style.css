@@ -1,0 +1,100 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background: url(andy-hermawan-O1jUvZX9DOA-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .title {
+    text-align: center;
+
+  }
+
+  main {
+    margin-top: 45px;
+  }
+  
+  #title {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  #color-palette {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .color {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 5px;
+    border-radius: 50%;
+  }
+  
+  .buttons {
+    display: inline-block;
+    width: 81px;
+    height: 50px;
+    border-radius: 10px;
+    color: antiquewhite;
+    background-color: violet;
+    border: 1px solid black;
+    margin: 5px 5px 0 15px;
+    vertical-align: top;
+  
+  }
+  
+  #pixel-board {
+    margin-top: 25px;
+  }
+
+  #generate-board {
+    color: antiquewhite;
+    background-color: violet;
+
+  }
+  
+  .rowDiv {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    height: 40px;
+  }
+  
+  #pixel-board .pixel {
+    display: inline-block;
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+  }
+  
+  main div {
+    width: fit-content;
+    margin: auto;
+  }
+  
+  .board-size-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .board-size-container button {
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid black;
+  }
+  
+  .board-size-container input {
+    line-height: 20px;
+    width: 100px;
+    letter-spacing: 1px;
+    text-align: center;
+  }
